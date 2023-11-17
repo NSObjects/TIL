@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="5461bd1a">
+        <description>Created after removal of "Gorm" from Help Instance</description>
+        <accepts>Gorm.html</accepts>
+    </rule>
+    <rule id="74bc3e71">
+        <description>Created after removal of "Overview" from Help Instance</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="36fa4b95">
+        <description>Created after removal of "Gorm" from Help Instance</description>
+        <accepts>Gorm.html</accepts>
+    </rule>
+</rules>
